@@ -1,0 +1,8 @@
+{
+  "name": "jquery-numeric",
+  "version": "1.5.1",
+  "ignore": [],
+  "dependencies": {
+    "main": { "dist/jquery-numeric.js" }
+  }
+}
